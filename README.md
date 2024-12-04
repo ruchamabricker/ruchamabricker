@@ -52,8 +52,8 @@ ASP.Net, WebAPI, WinForms, Postman
 
 ## 📫 Connect with Me  
 
-📧 **[Email Me](mailto:your-email@example.com)**  
-📂 **[My GitHub](https://github.com/your-profile)**  
+📧 **[Email Me]ruchamabricker@gmail.com**  
+📂 **[My GitHub](https://github.com/rucahmabricker)**  
 
 ---
 
