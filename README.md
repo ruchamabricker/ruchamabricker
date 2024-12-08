@@ -56,8 +56,9 @@
 ## 📫 Connect with Me  
 
 📧 **[Email Me](mailto:ruchamabricker@gmail.com)**  
-📞 **Phone**: [📱 +055-673-6128 - calls only](tel:+0556736128)  
-👨‍💻 **[My GitHub](https://github.com/ruchamabricker)**  
+📞 **Phone (Calls Only)**: [📱 +055-673-6128](tel:+0556736128)  
+👨‍💻 **[Explore My GitHub](https://github.com/ruchamabricker)**  
+
 
 ---
 
