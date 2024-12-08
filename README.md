@@ -71,7 +71,7 @@
 ## 📫 Connect with Me  
 
 📧 **[Email Me](mailto:ruchamabricker@gmail.com)**  
-📞 **[Phone]: [📱 0556736128](tel:0556736128) ** 
+📞 **[📱 0556736128](tel:0556736128)**
 👨‍💻 **[My GitHub](https://github.com/ruchamabricker)**  
 
 ---
