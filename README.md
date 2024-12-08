@@ -69,7 +69,7 @@
 ## 📫 Connect with Me  
 
 📧 **[Email Me](mailto:ruchamabricker@gmail.com)**  
-📞 **Phone**: [📱 +123-456-7890](tel:0556736128)  
+📞 **Phone**: [📱 0556736128](tel:0556736128)  
 👨‍💻 **[My GitHub](https://github.com/ruchamabricker)**  
 
 ---
