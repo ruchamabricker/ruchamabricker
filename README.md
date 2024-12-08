@@ -24,18 +24,20 @@
 🔹 Developed a task management system based on hierarchical layer architecture.  
 
 ### **Travel Route Calculator Website**  
-🛠️ **Technologies**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)  
+🛠️ **Technologies**:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white)  
 🔹 Built a website that calculates personalized routes based on user preferences using a DFS algorithm.  
 
 ### **Rubik's Cube Solver**  
-🛠️ **Technologies**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
+🛠️ **Technologies**:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
 🔹 Created an AI-based algorithm with heuristic approaches to solve the Rubik's cube.  
 
 ### **Virtual Keyboard and Games**  
-🛠️ **Technologies**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white)  
+🛠️ **Technologies**:
+![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white)  
 🔹 Developed interactive features with various animations and responsive design.  
 
 ---
@@ -69,7 +71,7 @@
 ## 📫 Connect with Me  
 
 📧 **[Email Me](mailto:ruchamabricker@gmail.com)**  
-📞 **Phone**: [📱 0556736128](tel:0556736128)  
+📞 **[Phone]: [📱 0556736128](tel:0556736128) ** 
 👨‍💻 **[My GitHub](https://github.com/ruchamabricker)**  
 
 ---
