@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ruchama Bricker!  
-### Software Developer | C++ Developer  
+### Software Developer
 
 ---
 
@@ -52,8 +52,9 @@ ASP.Net, WebAPI, WinForms, Postman
 
 ## 📫 Connect with Me  
 
-📧 **[Email Me]ruchamabricker@gmail.com**  
+📧 **[Email Me](ruchamabricker@gmail.com)**  
 📂 **[My GitHub](https://github.com/rucahmabricker)**  
+   **[My PhoneNumber](0556736128 calls only)**
 
 ---
 
